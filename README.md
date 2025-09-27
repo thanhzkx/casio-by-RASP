@@ -19,11 +19,11 @@ The system combines the **speed of Newton–Raphson** with the **stability of Bi
 ### Algorithm Flow
 | Diagram 1 | Diagram 2 | Diagram 3 |
 |-----------|-----------|-----------|
-| ![Diagram 1](Diagram1.jpg) | ![Diagram 2](Diagram2.jpg) | ![Diagram 3](Diagram3.jpg) |
+| ![Diagram 1](1.jpg) | ![Diagram 2](2.jpg) | ![Diagram 3](3.jpg) |
 
 | Diagram 4 | Diagram 5 |
 |-----------|-----------|
-| ![Diagram 4](Diagram4.jpg) | ![Diagram 5](Diagram5.jpg) |
+| ![Diagram 4](4.jpg) | ![Diagram 5](5.jpg) |
 
 ---
 
