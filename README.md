@@ -68,4 +68,4 @@ The system combines the **speed of Newton–Raphson** with the **stability of Bi
 ---
 
 ## 📫 Contact
-✉️ For more details: **nguyenminhthanh.offfice@gmail.com**
+✉️ For more details: **nguyenminhthanh.office@gmail.com**
